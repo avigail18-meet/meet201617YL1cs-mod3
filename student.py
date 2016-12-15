@@ -11,7 +11,7 @@ class Student:
     def print_summary (self):
         print("This is " + str(self.name) + " they are from " + str(self.hometown) + " they are " + str(self.age) + " years old, they are " + str(self.height) + " cm, and they like the most " + str(self.fav_IC) + "ice cream flavor")
     
-
+#naim is the best
 
     def get_giraffe_gap(self):
         x=500-float(self.height)
